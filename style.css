@@ -1,0 +1,24 @@
+.top_div{
+width:100%;
+height:150px;
+line-height: 2%;
+}
+.Note,.Note2{
+font-size: medium;
+
+}
+.Song_p{
+width: 150px;
+height: 40px;
+font-size: large;
+
+}
+body{
+    text-align: center;
+    background-image:url("download.jfif");
+    background-size: contain;
+}
+canvas{
+    border:5px dotted deepskyblue;
+    margin-top: 120px;
+}
